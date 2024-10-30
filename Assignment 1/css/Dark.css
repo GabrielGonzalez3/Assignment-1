@@ -1,0 +1,11 @@
+﻿* body {
+    background-color: #000000;
+}
+.image-container {
+    background-color: #000000;
+    padding: 20px;
+}
+.custom-image {
+    display: block;
+    margin: 0 auto;
+}
